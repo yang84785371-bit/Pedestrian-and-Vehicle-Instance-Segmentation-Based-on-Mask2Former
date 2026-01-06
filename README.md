@@ -5,6 +5,7 @@ This project applies Mask2Former to pedestrian and vehicle instance segmentation
 ## Description
 The project focuses on dataset adaptation, category reduction (80 → 10), and training pipeline setup under limited computational resources. 
 ResNet-50 is used as the backbone, and stable convergence is achieved through iterative training and hyperparameter tuning.
+The model achieves stable convergence with an IoU of approximately 0.8 and an AP improvement of 21 points after training optimization.
 
 ## Notes
 - Dataset and model weights are not included.
