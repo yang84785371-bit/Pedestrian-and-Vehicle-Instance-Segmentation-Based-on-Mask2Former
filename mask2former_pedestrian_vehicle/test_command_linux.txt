@@ -1,0 +1,10 @@
+cd ~/six_stage_homework/Mask2Former
+source .venv/bin/activate
+
+export PYTHONPATH=/home/didu/six_stage_homework/detectron2:$PYTHONPATH
+
+python train_net.py \
+  --config-file configs/cityscapes/instance-segmentation/maskformer2_R50_bs16_90k.yaml \
+  --eval-only \
+  MODEL.WEIGHTS output/cityscapes_instance_R50_10k/model_0009999.pth
+
