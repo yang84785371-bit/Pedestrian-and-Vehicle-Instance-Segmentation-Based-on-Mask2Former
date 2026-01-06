@@ -12,3 +12,11 @@ ResNet-50 is used as the backbone, and stable convergence is achieved through it
 
 ## Acknowledgement
 This project is based on Mask2Former.
+
+## output
+<img width="640" height="480" alt="ap_curve" src="https://github.com/user-attachments/assets/93d064ce-aed9-4dd1-b1ae-5ba51ed65528" />
+<img width="640" height="480" alt="loss_curve" src="https://github.com/user-attachments/assets/d7948b8c-b7a1-4d2b-aaea-aa0e7ecd7b71" />
+
+## result
+![Uploading vis_gt_0.png…]()
+![Uploading vis_pred_0.png…]()
