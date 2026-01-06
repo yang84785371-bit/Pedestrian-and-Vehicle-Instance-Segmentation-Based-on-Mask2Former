@@ -18,5 +18,5 @@ This project is based on Mask2Former.
 <img width="640" height="480" alt="loss_curve" src="https://github.com/user-attachments/assets/d7948b8c-b7a1-4d2b-aaea-aa0e7ecd7b71" />
 
 ## result
-![Uploading vis_gt_0.png…]()
-![Uploading vis_pred_0.png…]()
+<img width="2048" height="1024" alt="vis_pred_0" src="https://github.com/user-attachments/assets/593ece94-055f-4b9a-a559-83602c3de4a9" />
+<img width="2048" height="1024" alt="test_img_0" src="https://github.com/user-attachments/assets/be8bca49-2f5d-4513-8a83-3e36d9d0631e" />
